@@ -36,4 +36,3 @@ The `/journal` directory contains
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TU_USUARIO/aws-bootcamp-cruddur-2023)
